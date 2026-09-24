@@ -1,0 +1,1 @@
+33- En mi caso, no tuve ninguna experiencia previa con redes mas de lo normal a dia de hoy y lo aprendido durante esta cursada, ósea refiriéndome a agregar una red en un celular y como mucho hacer alguna indagación por parte del ping en videojuegos para mejorarlo, (comandos tipo ping y flushdns).
