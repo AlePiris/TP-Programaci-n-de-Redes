@@ -1,0 +1,12 @@
+33- (Individual para cada integrante del grupo) ¿Qué experiencia tienen en redes? 
+Ejemplos.: Accedo y configuro el router de mi casa como admin, en mi trabajo 
+hago tareas relacionadas a networking, configuro una PAN hogareña para mi o mi 
+familia, amigos/as etc (Personal Area Network, todo dispositivo Wireless o no), no 
+tengo ninguna experiencia, etc. 
+
+R:
+Trabajo en una empresa que se especializa en hacer instalaciones de redes.
+Por lo que muchas veces veo topologías de red, examino estado de equipos, sin embargo es mas un trabajo de nivel 1.
+Ya que nunca tuve que configurar un dispositivo para que funcione correctamente o armar una VLAN.
+Sin embargo, entiendo que son y como se utilizan ya que debo de saberlo para entender ciertas divisiones en esas redes, y reportar esos problemas.
+Mas allá de eso programé ciertas automatizaciones que leen el estado de los puertos de un Switch como de Accespoint y hasta las Wan de los UTM gracias a la API de Meraki.
